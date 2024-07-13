@@ -90,11 +90,11 @@
 
         layer_Layer_2 {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                              &trans  &trans  &trans  &trans  &trans  &trans         &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                              &trans  &trans  &trans  &trans  &trans  &trans         &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &kp LCTRL  &kp LEFT_ALT                  &trans  &kp RCTRL  &trans  &trans  &trans  &trans  &trans  &trans         &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                                     &trans                  &trans                     &trans  &trans  &trans  &trans  &trans         &trans
+ &tog 2  &trans  &trans  &trans  &trans                    &trans     &trans        &trans                  &trans     &trans  &trans          &trans  &trans  &trans  &trans  &kp RIGHT_ALT
             >;
         };
 

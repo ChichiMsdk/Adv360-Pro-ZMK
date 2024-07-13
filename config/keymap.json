@@ -44,11 +44,11 @@
          "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                       "&kp PAGE_UP",                     "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans",
        "&kp LCMD", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&kp PAGE_DOWN", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&kp RCMD"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                         "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",        "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                         "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",        "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&kp LCTRL", "&kp LEFT_ALT",                     "&trans", "&kp RCTRL", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",        "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                        "&trans",                     "&trans",                        "&trans", "&trans", "&trans", "&trans", "&trans",        "&trans",
+       "&tog 2", "&trans", "&trans", "&trans", "&trans",                     "&trans",    "&trans",       "&trans",                     "&trans",    "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&kp RIGHT_ALT"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
